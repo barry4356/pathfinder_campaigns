@@ -1,2 +1,4 @@
-# pathfinder_campaigns
-repo to track progress on pathfinder campaigns
+# Pathfinder Campaigns
+
+## Wrath of the Righteous
+### [Playthrough One](wotr/p1/main.md): Caleb, Lindsey, Sarah, Barry

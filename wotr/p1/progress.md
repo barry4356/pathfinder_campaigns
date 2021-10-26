@@ -3,7 +3,7 @@
 # Progress
 
 * [ ] Into the Worldwound
-  * [x] The Godless Ones
+  * [x] ~~The Godless Ones~~
   * [ ] The Elven Entanglement
   * [ ] The Wardstone Patrol
   * [ ] The Traitor's Lodge

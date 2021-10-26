@@ -11,7 +11,7 @@ For more than a hundred years, the demon-infested Worldwound has warred against 
 On the fringes of the wastelands, life goes on. People live in fear of the horrors of the night, but they still proceed with their daily routines, hoping to see the next day. The hopeful place their faith in the crusaders of Iomedae, heroes who patrol the Worldwound in search of any horrific thing that might prey upon the innocent. But on the road to the Worldwound, you won't find a lot of people who trust that things will go well. Maybe you can change that.
 
 ### The Godless Ones
-The Worldwound's demons would not be so confident about their chances of success without allies hidden among the people they prey upon. The demonologist Sophini and several of her Blackfire Adept minions want to bend demons to their will. Show them whose will is strongest.
+The Worldwound's demons would not be so confident about their chances of success without allies hidden among the people they prey upon. The demonologist [Sophini](tgo.jpg) and several of her Blackfire Adept minions want to bend demons to their will. Show them whose will is strongest.
 
 ### [*The Elven Entanglement*](progress.md#progress)
 <img src="tee.jpg" alt="drawing" width="300"/>

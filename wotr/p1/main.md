@@ -3,6 +3,7 @@
 - [Characters](characters.md#characters)
 - [Progress](progress.md#progress)
 - [Story](#storyline)
+- [Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
 
 # Storyline
 For more than a hundred years, the demon-infested Worldwound has warred against humanity. Along the border of lost Sarkoris, Abyssal armies clash with crusaders, barbarians, and mercenaries, yet the city of Kenabres stands defiant. Demon lords conspire to bring down the last vestiges of resistance, sacrificing legions of servitors. Queen Galfrey has sent out the call: can heroes seal the Worldwound forever?

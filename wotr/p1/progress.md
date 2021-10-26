@@ -1,5 +1,7 @@
+[Main Page](main.md)
+
 # Progress
-[
+
 * [ ] Into the Worldwound
   * [x] The Godless Ones
   * [ ] The Elven Entanglement
@@ -42,3 +44,5 @@
 >   * [ ] c
 >   * [ ] d
 >   * [ ] e
+
+[Main Page](main.md)

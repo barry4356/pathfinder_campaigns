@@ -16,33 +16,34 @@
   * [ ] The Wardstone Legacy
 > * [ ] Sword of Valor
 >   * [ ] The Gibbering Swarm
->   * [ ] a
->   * [ ] b
->   * [ ] c
->   * [ ] d
+>   * [ ] The Fifth Crusade
+>   * [ ] The Siege of Drezen
+>   * [ ] Into the Citadel
+>   * [ ] Gauntlet of Ruin
 > * [ ] Demon's Heresey
->   * [ ] a
->   * [ ] b
->   * [ ] c
->   * [ ] d
->   * [ ] e
+>   * [ ] Crusader’s Legacy
+>   * [ ] The Demon’s Redoubt
+>   * [ ] The Fallen Fane
+>   * [ ] Wintersun
+>   * [ ] The Ivory Sanctum
 > * [ ] The Midnight Isles
->   * [ ] a
->   * [ ] b
->   * [ ] c
->   * [ ] d
->   * [ ] e
+>   * [ ] The Abyss Gazes Also
+>   * [ ] Demondome
+>   * [ ] Nocticula’s Attention
+>   * [ ] Landfall on Colyphyr
+>   * [ ] The Nahyndrian Mine
 > * [ ] Herald of the Ivory Labyrinth
->   * [ ] a
->   * [ ] b
->   * [ ] c
->   * [ ] d
->   * [ ] e
+>   * [ ] Audience with the Inheritor
+>   * [ ] Welcome to Blackburgh
+>   * [ ] Twisty Passages
+>   * [ ] The Ineluctable Prison
+>   * [ ] Redeeming the Herald
 > * [ ] City of Locusts
->   * [ ] a
->   * [ ] b
->   * [ ] c
->   * [ ] d
->   * [ ] e
+>   * [ ] Onslaught of Drezen
+>   * [ ] The Pleasure Center
+>   * [ ] Death of the Storm King
+>   * [ ] Threshold of the End
+>   * [ ] Closing the Worldwound
+>   * [ ] Justifiable Deicide
 
 [Main Page](main.md#wrath-of-the-righteous)

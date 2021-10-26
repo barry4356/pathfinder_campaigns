@@ -1,4 +1,4 @@
-[Main Page](main.md)
+[Main Page](main.md#wrath-of-the-righteous)
 
 # Progress
 
@@ -45,4 +45,4 @@
 >   * [ ] d
 >   * [ ] e
 
-[Main Page](main.md)
+[Main Page](main.md#wrath-of-the-righteous)

@@ -13,5 +13,5 @@ On the fringes of the wastelands, life goes on. People live in fear of the horro
 ### The Godless Ones
 The Worldwound's demons would not be so confident about their chances of success without allies hidden among the people they prey upon. The demonologist Sophini and several of her Blackfire Adept minions want to bend demons to their will. Show them whose will is strongest.
 
-### The Elven Entanglement
+### [*The Elven Entanglement*](progress.md#progress)
 The road to the Worldwound has pockets of deep forest laden with entanglements. "Uprooter" elves use the twisted forest to their advantage. An eager toad demon has greater ambitions, so the elves and satyrs must seek aid from outsiders.

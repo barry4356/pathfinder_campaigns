@@ -8,7 +8,7 @@
 - [Dice Roller](https://g.co/kgs/ooVcz5)
 
 # Storyline
-For more than a hundred years, the demon-infested Worldwound has warred against humanity. Along the border of lost Sarkoris, Abyssal armies clash with crusaders, barbarians, and mercenaries, yet the city of Kenabres stands defiant. Demon lords conspire to bring down the last vestiges of resistance, sacrificing legions of servitors. Queen Galfrey has sent out the call: can heroes seal the Worldwound forever?
+For more than a hundred years, the demon-infested [Worldwound](locations.md#the-world-wound) has warred against humanity. Along the border of lost Sarkoris, Abyssal armies clash with crusaders, barbarians, and mercenaries, yet the city of [Kenabres](locations.md#kenabres) stands defiant. Demon lords conspire to bring down the last vestiges of resistance, sacrificing legions of servitors. Queen Galfrey has sent out the call: can heroes seal the Worldwound forever?
 
 ## Into the World Wound
 On the fringes of the wastelands, life goes on. People live in fear of the horrors of the night, but they still proceed with their daily routines, hoping to see the next day. The hopeful place their faith in the crusaders of Iomedae, heroes who patrol the Worldwound in search of any horrific thing that might prey upon the innocent. But on the road to the Worldwound, you won't find a lot of people who trust that things will go well. Maybe you can change that.

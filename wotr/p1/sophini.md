@@ -5,3 +5,5 @@
 Your gods will be consumed, digested, and returned to you unrecognizable
 --Sophini
 ```
+
+[Main Page](main.md#wrath-of-the-righteous)

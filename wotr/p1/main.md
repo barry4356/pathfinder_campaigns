@@ -2,6 +2,7 @@
 # Contents
 - [Characters](characters.md#characters)
 - [Progress](progress.md#progress)
+- [Locations](locations.md#locations)
 - [Story](#storyline)
 - [Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
 - [Dice Roller](https://g.co/kgs/ooVcz5)

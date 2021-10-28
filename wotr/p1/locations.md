@@ -21,7 +21,7 @@ A demon-haunted wasteland that lies at the northern most reaches of Avistan wher
 
 ## Kenabres
 
-![kenabres](https://lh3.googleusercontent.com/proxy/ePmpDZ99bwgxDg6ZdLnzT1P7W09hwM3qRbVjIJwP0WjuQyf8n4K0CmtdgFmHk8hN4ZbwVXH84XcybCDD6a2p__pkHMba)
+![kenabres](https://lh3.googleusercontent.com/proxy/OFRgM1yUpZ_0LLb_vF3PsDvoRMjJYrIvgeXPxhPDTyMhCxu6bRlkeTk7w3hivX7rJ2BXm5LEJaEhmijZRN_wzf1iIxeZ)
 
 Kenabres is a fortified crusader city bordering the Worldwound. Currently, the city is the center of a radical faction of Iomedae's faith who are renowned witch-hunters, led by the aging Hulrun Shappok. Although the city has become infamous for its witch hunts to ferret out any demonic influence in the population, the recently instituted Order of Heralds has made great strides in curbing the worst of these inquisitions. Many hope that they will dissipate entirely with the death of Hulrun, the elderly leader of the inquisition. The crusader generals of the city, Dyre and Marcovina, constantly fight with Hulrun over the allocation of the city's soldiers: Hulrun insists that they should be hunting internal enemies, while the generals argue that they are needed on the western front
 

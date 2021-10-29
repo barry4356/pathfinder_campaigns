@@ -16,6 +16,8 @@ while she lives… and perhaps for a short time thereafter.
 
 ![D3](D3.PNG)
 
+[Printable Sheet (External)](https://drive.google.com/file/d/17asnXhsprpi6-P-a6GhqkhU_K6whwiid/view?usp=sharing)
+
 ## Ezren
 
 After learning that the father whose name he’d spent most of his adult life trying to clear
@@ -29,6 +31,8 @@ explore the world he neglected for so long.
 ![E2](E2.PNG)
 
 ![E3](E3.PNG)
+
+[Printable Sheet (External)](https://drive.google.com/file/d/1C_3AA4_zbUYh74QvuuTEy0TZX9otZpS1/view?usp=sharing)
 
 ## Harsk
 
@@ -44,6 +48,8 @@ and its vast array of people and places worth protecting.
 
 ![H3](H3.PNG)
 
+[Printable Sheet (External)](https://drive.google.com/file/d/1EjdbCkJISLBc5EwvzBOKq44pn0hV09UR/view?usp=sharing)
+
 ## Imrijka
 
 Half-orc orphans aren’t a common sight in the church of Pharasma, goddess of fate and death. But
@@ -57,5 +63,7 @@ faces the future with courage and faith.
 ![I2](I2.PNG)
 
 ![I3](I3.PNG)
+
+[Printable Sheet (External)](https://drive.google.com/file/d/1M7yW4PQKLOa13ijyZLNwdYAVWmJeNrXM/view?usp=sharing)
 
 [Main Page](main.md#wrath-of-the-righteous)

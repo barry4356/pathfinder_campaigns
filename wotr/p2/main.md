@@ -16,7 +16,9 @@ On the fringes of the wastelands, life goes on. People live in fear of the horro
 ### The Godless Ones :heavy_check_mark:
 The Worldwound's demons would not be so confident about their chances of success without allies hidden among the people they prey upon. The demonologist [Sophini](sophini.md#sophini) and several of her Blackfire Adept minions want to bend demons to their will. Show them whose will is strongest.
 
-### [*The Elven Entanglement*](progress.md#progress)
-<img src="http://1.bp.blogspot.com/-OWtt1H_daK0/VWuQN_pcpAI/AAAAAAAAPbI/2bHkofB0AoI/s1600/Wrath-ACG_Elven%2BEntanglement_timkingslynnedotcom.jpg" alt="drawing" width="300"/>
-
+### The Elven Entanglement :heavy_check_mark:
 The road to the Worldwound has pockets of deep forest laden with entanglements. "Uprooter" elves use the twisted forest to their advantage. An eager toad demon has greater ambitions, so the elves and satyrs must seek aid from outsiders.
+
+### [*The Wardstone Patrol*](progress.md#progress)
+
+Crusaders of Iomedae patrol the Worldwound, guarding the magic wardstones that hold Abyssal hordes at bay. As the wardstones begin to crumble, valiant defenders such as the brave Sir Ilivan are the last line of defense. Will they be enough to turn back the demonic hordes?

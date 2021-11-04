@@ -5,7 +5,8 @@
 - [Locations](locations.md#locations)
 - [Story](#storyline)
 - [External: Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
-- [External: Dice](https://g.co/kgs/ooVcz5)
+- [External: Dice Roller](https://g.co/kgs/ooVcz5)
+- [External: Dice Odds](https://barry4356.pythonanywhere.com/dice_guesser)
 
 # Storyline
 For more than a hundred years, the demon-infested [Worldwound](locations.md#the-world-wound) has warred against humanity. Along the border of lost Sarkoris, Abyssal armies clash with crusaders, barbarians, and mercenaries, yet the city of [Kenabres](locations.md#kenabres) stands defiant. Demon lords conspire to bring down the last vestiges of resistance, sacrificing legions of servitors. Queen Galfrey has sent out the call: can heroes seal the Worldwound forever?

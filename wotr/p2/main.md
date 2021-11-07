@@ -1,8 +1,8 @@
 # Wrath of the Righteous
 # Contents
-- [Characters](characters.md#characters)
+- [Characters](../p1/characters.md#characters)
 - [Progress](progress.md#progress)
-- [Locations](locations.md#locations)
+- [Locations](../p1/locations.md#locations)
 - [Story](#storyline)
 - [External: Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
 - [External: Dice Roller](https://g.co/kgs/ooVcz5)

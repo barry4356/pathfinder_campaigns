@@ -82,11 +82,18 @@
 <img src="https://drive.google.com/uc?export=view&id=1cROtbNm-sst11SvGdOFsaH9rSm4kUPPc" alt="ViperStrike" width="200"/>
 
 ## Weapons
-
-
-https://drive.google.com/open?id=1yr92yDx-7tfeo3VDNCuGa3KiGhtOZ2lx&authuser=barryd%40mail.usf.edu&usp=drive_fs
-
-Drive Link: 
-https://drive.google.com/uc?export=view&id=
-
-ID List:
+<img src="https://drive.google.com/uc?export=view&id=1EWR4TuHOnz5kmaGLIbLYkCB22vfT9wDv" alt="Aklys" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=11COb9SqD5Yvff4s9hOIVHmeBvbxGnAWh" alt="Bolas" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1_1IjKhhdXHSrJTBVdDnjDmQZ4AKFZjxj" alt="CorrosiveDagger" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1yNipjwxHv76o-10YBJFNoQCLUsFh0Lku" alt="HandCrossbow" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1sZDUMHggpP7fx5v9N59Sh5MNK3YQ6rF9" alt="HeavyCrossbow" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1ibetHO8uMJVDXrcdiYyto9RcWRPpjbKZ" alt="HeavyPick" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1wFRiey9fbgB3kxk6lbSHXOFxQEgXNXI0" alt="Javelin" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1ZO_UD4GWyYf09mfYU043L9cDfAaBalBv" alt="Longspear" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1WsNeRLZBMWssBWIc0TcsFG2c-3ZSU0p8" alt="Longsword" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1j81_MRM7ah5FkKNgHjfwaSWWN1BFRI9R" alt="Mace" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1KiNUlEv9xymu8Z71HKkw3i_5JdU83ZcN" alt="Quarterstaff" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1jcw1KFE5zbLPGWiQK7i4XQyx03D_u1d0" alt="Rapier" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1dBNecCrdEJs-5JBMQ06S6JsjvdF2UIlh" alt="Shortbow" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=14GoKbarTCh3CeDOudKJdcVSV_wJ2PW0P" alt="Sickle" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1VxL5jv0BrQRuFmNVUPwwfuJZ766Gt9S3" alt="Sling" width="200"/>

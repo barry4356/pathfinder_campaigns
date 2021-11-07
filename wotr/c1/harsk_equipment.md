@@ -1,4 +1,4 @@
-# Harsk
+# Harsk's Equipment
 ![a](../p1/H3.PNG)
 
 ## Allies

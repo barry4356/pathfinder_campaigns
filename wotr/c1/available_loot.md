@@ -73,3 +73,5 @@ aklys
 sickle
 longspear
 heavypick
+
+[characters](../p1/characters.md#characters)

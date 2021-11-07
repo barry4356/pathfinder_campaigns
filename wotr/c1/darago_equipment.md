@@ -18,3 +18,7 @@
 
 ## Weapons
 <img src="https://drive.google.com/uc?export=view&id=14GoKbarTCh3CeDOudKJdcVSV_wJ2PW0P" alt="Sickle" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ZO_UD4GWyYf09mfYU043L9cDfAaBalBv" alt="Longspear" width="200"/>
+
+[characters](../p1/characters.md#characters)
+
+[available gear](available_loot.md#available-gear)

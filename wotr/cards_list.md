@@ -31,7 +31,7 @@
 <img src="https://drive.google.com/uc?export=view&id=1-57EipIUSYnaTND0O6LLK-rRtnlj5FN5" alt="WoodenShield" width="200"/>
 
 ## Blessings
-<img src="https://drive.google.com/uc?export=view&id=1yxdw4m48bv5aL17-1wjPvGal-CMfDV2Z" alt="BlessingOfAscension" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1--G2FwECtogiJaCAzQE2_2PQO0NiEgdS" alt="BlessingOfAscension" width="200"/>
 <img src="https://drive.google.com/uc?export=view&id=1zD8ykAk-uoVbho3hf5eAAsQsTkQnJJcX" alt="BlessingOfBaphomet" width="200"/>
 <img src="https://drive.google.com/uc?export=view&id=1zCs0TRPpFGiFXhzAq8TLgqEVajiCG4Ez" alt="BlessingOfDeskari" width="200"/>
 <img src="https://drive.google.com/uc?export=view&id=1z9S-beWlTnQUrqCfm0YySW2xDY0XwFHF" alt="BlessingOfIomedae" width="200"/>
@@ -40,7 +40,22 @@
 <img src="https://drive.google.com/uc?export=view&id=1z35bGK6VSERh-jV-7yQ_rW4ehnMb_Xan" alt="BlessingOfTheGods" width="200"/>
 
 ## Items
-
+<img src="https://drive.google.com/uc?export=view&id=1z0c2HWlALbGz4JPMqIKHJ_RdGnuL1Ncs" alt="BlastStone" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1z-6gwUc6GTdzfX2clKGVwRE79cHdi0D6" alt="BloodPeriapt" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1yyKKTEh1li-L0c1cnw97Wfxfb4viaqOp" alt="BookOfTheLoremaster" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zoUDx8UeBY47BGhRwbu5QhH7ZX6NtEQr" alt="BracersOfProtection" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zngNfLxFXbcr2u00U6uuUu4czhs_S8iL" alt="CaltropBead" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zkwFYWh3vU_6TPU8x51KHcNWckOUS1wD" alt="Codex" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1ze76AsS3_rzrPRfwSL40Gn6wdXb1MnC5" alt="DemonHuntersHandbook" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zbx9Ae7gV1bJ2C2PnJvJxHlswKvOUQPt" alt="EyePatch" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zV0k_-S7cUni6R6rpfBh_3voK36dbu4t" alt="HolyWaterGrenade" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zT_4RdppMyXINKmTRxZbyUIXziqVBWun" alt="HornOfBattleClarity" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zSJ_pZBGJRxxzToEDzAga9dSYuJIvf1c" alt="PotionOfBeastSkin" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zQ4s_lQ2WKwEV8yocj9G46boHfEP_kfw" alt="PotionOfStriding" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zPrg_9qaQIzYgjBhp0CmjQMI44G5dM0Z" alt="RingOfClimbing" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zOCHc5nNP8BYZlo35zXvT0ajICaIxFSt" alt="SagesJournal" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zKhuKBLkXVmOl9sSDUVqGa96tNWV1Zpw" alt="SilverRavenFigurine" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zKDdjNpuQPOx6tTJQIsLSboR8hRszMFJ" alt="TrapsmithGloves" width="200"/>
 
 ## Spells
 

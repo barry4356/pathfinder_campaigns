@@ -4,63 +4,18 @@
 <img src="https://drive.google.com/uc?export=view&id=1yWq1AmVQpDDr9RlTBYQWDlYOW-XLqkUh" alt="Recruit" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yk3eO7w5Uco-pF3V-cQKcI_uFtmuPyoS" alt="Guard" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ygX7K08YAaEX-tHqgiA-fY0AkuVo9ocD" alt="JinxEater" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yow7G__ygjDgg-N4rZhkMvwDUMlh2ZTa" alt="BlackwingLibrarian" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ykvAds3r9mjBKKYQXldvoHXICkGc8vf4" alt="Frog" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yXM1_f7xEt9kuY3wFDAp-tsd8T7vi9vo" alt="Sage" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ym-4Txvuqyj8qxLqenQVTe8LWhLhOdvY" alt="FrilledLizard" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yU91U4hpjfZdruZDUxKeHFZNCORuCflW" alt="Vulture" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yqCDqX4bcrYJuPVMQ2vKT_-voL2O8gxv" alt="Athlete" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ybW0J9wM_9KqFF7O2Tv5l4LAWrBFKy68" alt="Researcher" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1y_P8dOMGhADlzNBDTeqW--uYvGg1dJzt" alt="RidingHorse" width="200"/>
 
 ## Armor
-Woodenshield
-scalemail
-helm
-paddedarmor
-stalkingarmor
-hidearmor
-leatherarmor
+<img src="https://drive.google.com/uc?export=view&id=1-57EipIUSYnaTND0O6LLK-rRtnlj5FN5" alt="WoodenShield" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-9im4KGAOr4WXUKPTEz7lfpTouwd0SHZ" alt="ScaleMail" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-dYUVoGPGYjNzv-joDi9aOHzn2VRRTsL" alt="Helm" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-HPLsRxccPWZqAPnF-p-thLtCekp9bNR" alt="PaddedArmor" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-94b1PtiNCaDOXGbqKsIc4vswlL8lYq3" alt="StalkingArmor" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-YCSTdQmG3AY_6i3rWFvru_LvfePTPzJ" alt="HideArmor" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1-XIUusqYu8cUiACYhxAF4WwRLEr2yy4I" alt="LeatherArmor" width="200"/>
 
 ## Blessings
-ascension
+<img src="https://drive.google.com/uc?export=view&id=1--G2FwECtogiJaCAzQE2_2PQO0NiEgdS" alt="BlessingOfAscension" width="200"/>
 
 ## Items
-sagesjournal
-ringofclimbing
-bloodperiapt
-bookoftheloremaster
-potionofbeastskin
-bracesofprotection
-holywatergrenade
-eyepatch
-caltropbead
-trapsmithgloves
-codex
-potionofstriding
-blaststone
+<img src="https://drive.google.com/uc?export=view&id=1zOCHc5nNP8BYZlo35zXvT0ajICaIxFSt" alt="SagesJournal" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zPrg_9qaQIzYgjBhp0CmjQMI44G5dM0Z" alt="RingOfClimbing" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1z-6gwUc6GTdzfX2clKGVwRE79cHdi0D6" alt="BloodPeriapt" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yyKKTEh1li-L0c1cnw97Wfxfb4viaqOp" alt="BookOfTheLoremaster" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zSJ_pZBGJRxxzToEDzAga9dSYuJIvf1c" alt="PotionOfBeastSkin" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zoUDx8UeBY47BGhRwbu5QhH7ZX6NtEQr" alt="BracersOfProtection" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zV0k_-S7cUni6R6rpfBh_3voK36dbu4t" alt="HolyWaterGrenade" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zbx9Ae7gV1bJ2C2PnJvJxHlswKvOUQPt" alt="EyePatch" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zngNfLxFXbcr2u00U6uuUu4czhs_S8iL" alt="CaltropBead" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zKDdjNpuQPOx6tTJQIsLSboR8hRszMFJ" alt="TrapsmithGloves" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zkwFYWh3vU_6TPU8x51KHcNWckOUS1wD" alt="Codex" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zQ4s_lQ2WKwEV8yocj9G46boHfEP_kfw" alt="PotionOfStriding" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1z0c2HWlALbGz4JPMqIKHJ_RdGnuL1Ncs" alt="BlastStone" width="200"/>
 
 ## Spells
-fireblade
-forcemissile
-frigidblast
-glibness
-cure
-agility
-createpit
-burstbonds
-magicweapon
-brilliance
-viper strike
-detect demon
-enchanted fang
-lightning touch
-sagacity
-dazzle
-phantasmal minion
-santuary
+<img src="https://drive.google.com/uc?export=view&id=1pnnQjjIIqy5XwRXqZTBYHcjTIXibTDb1" alt="Fireblade" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zsE9BPYXI5-DVuPqBpcHqpGKoNR0N5NW" alt="ForceMissile" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zrvfzD8vyVJj7_O4wN1-QY3k8nhshRtp" alt="FrigidBlast" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zpa9dW-6oGGsyuKSlBSxFCMx7LOgtNIl" alt="Glibness" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1JBeNtSlzgUWQO3UG7xSjo019WreQZXkz" alt="Cure" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1zFjPKQ0v4AZADWESk2oNY2IT1CZ90PjJ" alt="Agility" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1QUrB9KDzYiVIcxd9kiguYjQ-9WRurJ5w" alt="CreatePit" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1OEobL0cQh3eKH8Xrz1CbRV4hYs8-lubv" alt="BurstBonds" width="200"/> <img src="https://drive.google.com/uc?export=view&id=17l2veK2dRnquDTztnttcYPWsu87rK1rl" alt="MagicWeapon" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1fpim7KRoWpivd9BdyATcVLEqOpEhiDHs" alt="Brilliance" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1cROtbNm-sst11SvGdOFsaH9rSm4kUPPc" alt="ViperStrike" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1cM1feQuV6MSRvVE7n5iVz5fq6mP6EWSB" alt="DetectDemon" width="200"/> <img src="https://drive.google.com/uc?export=view&id=19dROaR-geY3QkzFYATPQ_qW27ovxX6L-" alt="EnchantedFang" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1I7GycwYZeYSqaqafWQTUePNTDiEMuupS" alt="LightningTouch" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1DLUxOhgprsmZ17jk75MAjMN8WYKLytCR" alt="Segacity" width="200"/> <img src="https://drive.google.com/uc?export=view&id=11VAmEOn9Eh_f-yVcxlDLCpVK4oHl0-kt" alt="Dazzle" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ztiGB4perez2agUgbntr53c23yizHl3w" alt="PhantasmalMinion" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1U6qywkY5XGTNPM30atzUy9H9E4RzjH4t" alt="Sanctuary" width="200"/>
 
 ## Weapons
-sling
-bolas
-quarterstaff
-mace
-javelin
-handcrossbow
-shortbow
-aklys
-sickle
-longspear
-heavypick
+<img src="https://drive.google.com/uc?export=view&id=1VxL5jv0BrQRuFmNVUPwwfuJZ766Gt9S3" alt="Sling" width="200"/> <img src="https://drive.google.com/uc?export=view&id=11COb9SqD5Yvff4s9hOIVHmeBvbxGnAWh" alt="Bolas" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1KiNUlEv9xymu8Z71HKkw3i_5JdU83ZcN" alt="Quarterstaff" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1j81_MRM7ah5FkKNgHjfwaSWWN1BFRI9R" alt="Mace" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1wFRiey9fbgB3kxk6lbSHXOFxQEgXNXI0" alt="Javelin" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yNipjwxHv76o-10YBJFNoQCLUsFh0Lku" alt="HandCrossbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1dBNecCrdEJs-5JBMQ06S6JsjvdF2UIlh" alt="Shortbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1EWR4TuHOnz5kmaGLIbLYkCB22vfT9wDv" alt="Aklys" width="200"/> <img src="https://drive.google.com/uc?export=view&id=14GoKbarTCh3CeDOudKJdcVSV_wJ2PW0P" alt="Sickle" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ZO_UD4GWyYf09mfYU043L9cDfAaBalBv" alt="Longspear" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1ibetHO8uMJVDXrcdiYyto9RcWRPpjbKZ" alt="HeavyPick" width="200"/>
 
 [characters](../p1/characters.md#characters)

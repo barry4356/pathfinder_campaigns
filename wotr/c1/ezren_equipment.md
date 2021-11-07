@@ -1,5 +1,5 @@
 # Ezren
-![a](p1/E3.PNG)
+![a](../p1/E3.PNG)
 
 ## Allies
 Apprentice

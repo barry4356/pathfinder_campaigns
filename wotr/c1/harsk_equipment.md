@@ -15,3 +15,7 @@
 
 ## Weapons
 <img src="https://drive.google.com/uc?export=view&id=1_1IjKhhdXHSrJTBVdDnjDmQZ4AKFZjxj" alt="CorrosiveDagger" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1_1IjKhhdXHSrJTBVdDnjDmQZ4AKFZjxj" alt="CorrosiveDagger" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1sZDUMHggpP7fx5v9N59Sh5MNK3YQ6rF9" alt="HeavyCrossbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1sZDUMHggpP7fx5v9N59Sh5MNK3YQ6rF9" alt="HeavyCrossbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=11COb9SqD5Yvff4s9hOIVHmeBvbxGnAWh" alt="Bolas" width="200"/>
+
+[characters](../p1/characters.md#characters)
+
+[available gear](available_loot.md#available-gear)

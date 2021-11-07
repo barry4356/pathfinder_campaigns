@@ -12,3 +12,7 @@
 
 ## Weapons
 <img src="https://drive.google.com/uc?export=view&id=1WsNeRLZBMWssBWIc0TcsFG2c-3ZSU0p8" alt="Longsword" width="200"/>
+
+[characters](../p1/characters.md#characters)
+
+[available gear](available_loot.md#available-gear)

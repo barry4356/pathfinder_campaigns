@@ -58,7 +58,28 @@
 <img src="https://drive.google.com/uc?export=view&id=1zKDdjNpuQPOx6tTJQIsLSboR8hRszMFJ" alt="TrapsmithGloves" width="200"/>
 
 ## Spells
-
+<img src="https://drive.google.com/uc?export=view&id=1zFjPKQ0v4AZADWESk2oNY2IT1CZ90PjJ" alt="Agility" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zFc85u2YWzs_UMnePLAz-2sLTYz-SZ-o" alt="ArcaneArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1fpim7KRoWpivd9BdyATcVLEqOpEhiDHs" alt="Brilliance" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1OEobL0cQh3eKH8Xrz1CbRV4hYs8-lubv" alt="BurstBonds" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1QUrB9KDzYiVIcxd9kiguYjQ-9WRurJ5w" alt="CreatePit" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1JBeNtSlzgUWQO3UG7xSjo019WreQZXkz" alt="Cure" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=11VAmEOn9Eh_f-yVcxlDLCpVK4oHl0-kt" alt="Dazzle" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1cM1feQuV6MSRvVE7n5iVz5fq6mP6EWSB" alt="DetectDemon" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1R1LYGdkUOYSiAF-HTj_NIAyUuARPqwFZ" alt="DetectMagic" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=19dROaR-geY3QkzFYATPQ_qW27ovxX6L-" alt="EnchantedFang" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1pnnQjjIIqy5XwRXqZTBYHcjTIXibTDb1" alt="Fireblade" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zsE9BPYXI5-DVuPqBpcHqpGKoNR0N5NW" alt="ForceMissile" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zrvfzD8vyVJj7_O4wN1-QY3k8nhshRtp" alt="FrigidBlast" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zpa9dW-6oGGsyuKSlBSxFCMx7LOgtNIl" alt="Glibness" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1I7GycwYZeYSqaqafWQTUePNTDiEMuupS" alt="LightningTouch" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=17l2veK2dRnquDTztnttcYPWsu87rK1rl" alt="MagicWeapon" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1ztiGB4perez2agUgbntr53c23yizHl3w" alt="PhantasmalMinion" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1DLUxOhgprsmZ17jk75MAjMN8WYKLytCR" alt="Segacity" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1U6qywkY5XGTNPM30atzUy9H9E4RzjH4t" alt="Sanctuary" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1hrhatqy-fZL5fCsM-FwIhA4pRrxlf1Bm" alt="Skitter" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=185_d8V7z43MlSraM6Xjk9izhvD2WkEWg" alt="Sleep" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1cROtbNm-sst11SvGdOFsaH9rSm4kUPPc" alt="ViperStrike" width="200"/>
 
 ## Weapons
 

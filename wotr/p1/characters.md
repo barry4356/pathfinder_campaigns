@@ -16,6 +16,8 @@ while she lives… and perhaps for a short time thereafter.
 
 ![D3](D3.PNG)
 
+[Equipment](../c1/darago_equipment.md)
+
 [Printable Sheet (External)](https://drive.google.com/file/d/17asnXhsprpi6-P-a6GhqkhU_K6whwiid/view?usp=sharing)
 
 ## Ezren
@@ -31,6 +33,8 @@ explore the world he neglected for so long.
 ![E2](E2.PNG)
 
 ![E3](E3.PNG)
+
+[Equipment](../c1/ezren_equipment.md)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1C_3AA4_zbUYh74QvuuTEy0TZX9otZpS1/view?usp=sharing)
 
@@ -48,6 +52,8 @@ and its vast array of people and places worth protecting.
 
 ![H3](H3.PNG)
 
+[Equipment](../c1/harsk_equipment.md)
+
 [Printable Sheet (External)](https://drive.google.com/file/d/1EjdbCkJISLBc5EwvzBOKq44pn0hV09UR/view?usp=sharing)
 
 ## Imrijka
@@ -63,6 +69,8 @@ faces the future with courage and faith.
 ![I2](I2.PNG)
 
 ![I3](I3.PNG)
+
+[Equipment](../c1/Imrijka_equipment.md)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1M7yW4PQKLOa13ijyZLNwdYAVWmJeNrXM/view?usp=sharing)
 

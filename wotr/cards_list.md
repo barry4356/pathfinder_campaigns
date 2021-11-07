@@ -31,12 +31,22 @@
 <img src="https://drive.google.com/uc?export=view&id=1-57EipIUSYnaTND0O6LLK-rRtnlj5FN5" alt="WoodenShield" width="200"/>
 
 ## Blessings
+<img src="https://drive.google.com/uc?export=view&id=1yxdw4m48bv5aL17-1wjPvGal-CMfDV2Z" alt="BlessingOfAscension" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zD8ykAk-uoVbho3hf5eAAsQsTkQnJJcX" alt="BlessingOfBaphomet" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1zCs0TRPpFGiFXhzAq8TLgqEVajiCG4Ez" alt="BlessingOfDeskari" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1z9S-beWlTnQUrqCfm0YySW2xDY0XwFHF" alt="BlessingOfIomedae" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1z7_dooM2UOLRwQZU6Xs4_CrnAR4G-34l" alt="BlessingOfShax" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1z7Xm-DvSXdjiArRAoyec5qZKlblq2c2o" alt="BlessingOfShelyn" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1z35bGK6VSERh-jV-7yQ_rW4ehnMb_Xan" alt="BlessingOfTheGods" width="200"/>
 
 ## Items
 
+
 ## Spells
 
+
 ## Weapons
+
 
 https://drive.google.com/open?id=1yr92yDx-7tfeo3VDNCuGa3KiGhtOZ2lx&authuser=barryd%40mail.usf.edu&usp=drive_fs
 

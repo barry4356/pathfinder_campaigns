@@ -1,4 +1,4 @@
-# Ezren
+# Ezren's Equipment
 ![a](../p1/E3.PNG)
 
 ## Allies

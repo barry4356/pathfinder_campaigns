@@ -18,6 +18,17 @@
 <img src="https://drive.google.com/uc?export=view&id=1yU91U4hpjfZdruZDUxKeHFZNCORuCflW" alt="Vulture" width="200"/>
 
 ## Armor
+<img src="https://drive.google.com/uc?export=view&id=1-eI4b_8Bz2xqhrlqm7Lfp0nNkXxychuA" alt="ClothArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-dYUVoGPGYjNzv-joDi9aOHzn2VRRTsL" alt="Helm" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-YCSTdQmG3AY_6i3rWFvru_LvfePTPzJ" alt="HideArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-XIUusqYu8cUiACYhxAF4WwRLEr2yy4I" alt="LeatherArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-OlI_kP__ZMZ4aByjp4zDFhRo93pSypl" alt="MagicPaddedArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-IOWTjaG2JB2h9OV-lRKveCk9E3wrY2S" alt="MagicScaleMail" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-HPLsRxccPWZqAPnF-p-thLtCekp9bNR" alt="PaddedArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-9im4KGAOr4WXUKPTEz7lfpTouwd0SHZ" alt="ScaleMail" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-9KhL_xygDkZqmcRmroGep5BfBnSYFx7" alt="SpellcasterShield" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-94b1PtiNCaDOXGbqKsIc4vswlL8lYq3" alt="StalkingArmor" width="200"/>
+<img src="https://drive.google.com/uc?export=view&id=1-57EipIUSYnaTND0O6LLK-rRtnlj5FN5" alt="WoodenShield" width="200"/>
 
 ## Blessings
 

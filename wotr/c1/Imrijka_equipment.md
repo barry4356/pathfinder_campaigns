@@ -18,3 +18,7 @@
 
 ## Weapons
 <img src="https://drive.google.com/uc?export=view&id=1wFRiey9fbgB3kxk6lbSHXOFxQEgXNXI0" alt="Javelin" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1dBNecCrdEJs-5JBMQ06S6JsjvdF2UIlh" alt="Shortbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1jcw1KFE5zbLPGWiQK7i4XQyx03D_u1d0" alt="Rapier" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1yNipjwxHv76o-10YBJFNoQCLUsFh0Lku" alt="HandCrossbow" width="200"/> <img src="https://drive.google.com/uc?export=view&id=1WsNeRLZBMWssBWIc0TcsFG2c-3ZSU0p8" alt="Longsword" width="200"/>
+
+[characters](../p1/characters.md#characters)
+
+[available gear](available_loot.md#available-gear)

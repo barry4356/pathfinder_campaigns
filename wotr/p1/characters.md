@@ -2,19 +2,17 @@
 
 # Characters
 
-## Darago
+![D1](D1.PNG)
+
+![D2](D2.PNG)
+
+![D3](D3.PNG)
 
 The power of the dead courses through Darago’s thin veins. It’s a rare wizard who can traffic
 with the unliving and retain most of his soul, but so far, Darago has resisted the baser desires
 of most necromancers. Still, his chilling voice and devilish sense of humor will surprise even
 the most hardened adventurers. After all, he will happily battle at the side of any adventurer
 while she lives… and perhaps for a short time thereafter.
-
-![D1](D1.PNG)
-
-![D2](D2.PNG)
-
-![D3](D3.PNG)
 
 [Equipment](../c1/darago_equipment.md)
 

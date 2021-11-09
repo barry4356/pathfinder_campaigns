@@ -14,7 +14,7 @@ of most necromancers. Still, his chilling voice and devilish sense of humor will
 the most hardened adventurers. After all, he will happily battle at the side of any adventurer
 while she lives… and perhaps for a short time thereafter.
 
-[Equipment](../c1/darago_equipment.md)
+[Equipment](../c1/darago_equipment.md#daragos-equipment)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/17asnXhsprpi6-P-a6GhqkhU_K6whwiid/view?usp=sharing)
 
@@ -32,7 +32,7 @@ willing to take on an apprentice of his age, he devoted himself to unlocking the
 magic alone. His studies soon revealed a true aptitude for the arcane arts, and he now seeks to
 explore the world he neglected for so long.
 
-[Equipment](../c1/ezren_equipment.md)
+[Equipment](../c1/ezren_equipment.md#ezrens-equipment)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1C_3AA4_zbUYh74QvuuTEy0TZX9otZpS1/view?usp=sharing)
 
@@ -50,7 +50,7 @@ sharp. A gruff and driven dwarf, he left his home to fulfill a vow of justice to
 death at the hands of raiding giants. He has since learned much of the world, its lands, its beasts,
 and its vast array of people and places worth protecting.
 
-[Equipment](../c1/harsk_equipment.md)
+[Equipment](../c1/harsk_equipment.md#harsks-equipment)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1EjdbCkJISLBc5EwvzBOKq44pn0hV09UR/view?usp=sharing)
 
@@ -68,7 +68,7 @@ Imrijka brings judgment to all who would violate the laws of life and death, kee
 mysterious disk that might hold the key to the truth of her parentage. Imrijka’s seen it all. She
 faces the future with courage and faith.
 
-[Equipment](../c1/Imrijka_equipment.md)
+[Equipment](../c1/Imrijka_equipment.md#imrijkas-equipment)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1M7yW4PQKLOa13ijyZLNwdYAVWmJeNrXM/view?usp=sharing)
 

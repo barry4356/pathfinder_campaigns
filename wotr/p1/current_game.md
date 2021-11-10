@@ -30,19 +30,43 @@
 
 *Player Markers*
 
-## Darago's Cards (number left in deck)
+## Darago's Cards: Sarah (number left in deck)
+
+### Hand
+
+### Discard
+
+### Buried
 
 *Cards* 
 
-## Ezren's Cards (number left in deck)
+## Ezren's Cards: Barry (number left in deck)
+
+### Hand
+
+### Discard
+
+### Buried
 
 *Cards* 
 
-## Harsk's Cards (number left in deck)
+## Harsk's Cards: Lindsey (number left in deck)
+
+### Hand
+
+### Discard
+
+### Buried
 
 *Cards* 
 
-## Imrijka's Cards (number left in deck)
+## Imrijka's Cards: Caleb (number left in deck)
+
+### Hand
+
+### Discard
+
+### Buried
 
 *Cards* 
 

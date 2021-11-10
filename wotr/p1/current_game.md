@@ -6,7 +6,9 @@
 
 *Zoomed-out Map*
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglement.png" alt="TheElvenEntanglement" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/FiendishTree.png" alt="FiendishTree" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Vinst.png" alt="Vinst" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/CecillaTheUprooter.png" alt="CecillaTheUprooter" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglement.png" alt="TheElvenEntanglement" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglementB.png" alt="TheElvenEntanglementB" width="100"/>
+
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/FiendishTree.png" alt="FiendishTree" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Vinst.png" alt="Vinst" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/CecillaTheUprooter.png" alt="CecillaTheUprooter" width="100"/>
 
 *Scenario Briefing*
 

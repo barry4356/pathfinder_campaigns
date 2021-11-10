@@ -18,8 +18,6 @@
 
 *Locations Map*
 
-##
-
 ### Location 1 (Cards Left)
 
 *Location Card*

@@ -6,11 +6,11 @@
 
 *Zoomed-out Map*
 
-*Scenario Card*
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglement.png" alt="TheElvenEntanglement" width="100"/>
 
 *Scenario Briefing*
 
-## Timer
+## Timer (30)
 
 *Blessings Deck, Cards, and number left*
 
@@ -18,17 +18,29 @@
 
 *Locations Map*
 
-### Location 1 (Cards Left)
+### Dark Forest (9)
 
-*Location Card*
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/DarkForest.png" alt="DarkForest" width="100"/>
 
-*Player Markers*
-  
-### Location 2 (Cards Left)
-  
-*Location Card*
+### Watchtower (9)
 
-*Player Markers*
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Watchtower.png" alt="Watchtower" width="100"/>
+
+### Wounded Lands (9)
+
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/WoundedLands.png" alt="WoundedLands" width="100"/>
+
+### Cemetery (9)
+
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cemetery.png" alt="Cemetery" width="100"/>
+
+### Abyssal River (9)
+
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRiver.png" alt="AbyssalRiver" width="100"/>
+
+### Guardpost (9)
+
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Guardpost.png" alt="Guardpost" width="100"/>
 
 ## Darago's Cards: Sarah (number left in deck)
 

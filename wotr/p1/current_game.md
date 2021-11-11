@@ -20,7 +20,7 @@ While common wisdom is to avoid the Estrovian Forest, the adventurers believe th
 
 ## Locations
 
-*Locations Map*
+![forestMap](EstrovianForest.jpg)
 
 ### Dark Forest (9)
 

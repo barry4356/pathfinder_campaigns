@@ -14,7 +14,7 @@
 
 ## Timer (30)
 
-*Blessings Deck, Cards, and number left*
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
 ## Locations
 

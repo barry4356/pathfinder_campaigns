@@ -1,6 +1,7 @@
 ### Links
-
-*ToC*
+- [External: Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
+- [External: Dice Roller](https://g.co/kgs/ooVcz5)
+- [External: Dice Odds](https://barry4356.pythonanywhere.com/dice_guesser)
 
 # The Elven Entanglement
 
@@ -63,5 +64,6 @@ While common wisdom is to avoid the Estrovian Forest, the adventurers believe th
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
 ### Links
-
-*ToC*
+- [External: Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
+- [External: Dice Roller](https://g.co/kgs/ooVcz5)
+- [External: Dice Odds](https://barry4356.pythonanywhere.com/dice_guesser)

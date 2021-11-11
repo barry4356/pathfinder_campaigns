@@ -35,7 +35,7 @@ While common wisdom is to avoid the Estrovian Forest, the adventurers believe th
 ### Links
 - [Main Page](main.md#wrath-of-the-righteous)
 - [Darago's Gear](../c1/darago_equipment.md#daragos-equipment)
-- [Ezrens's Gear](../c1/ezren_equipment.md#)
-- [Harsk's Gear](../c1/harsk_equipment.md#)
-- [Imrijka's Gear](../c1/Imrijka_equipment.md#imr)
+- [Ezrens's Gear](../c1/ezren_equipment.md#ezrens-equipment)
+- [Harsk's Gear](../c1/harsk_equipment.md#harsks-equipment)
+- [Imrijka's Gear](../c1/Imrijka_equipment.md#imrijkas-equipment)
 

@@ -1,3 +1,4 @@
+[Main Page](../p1/main.md#wrath-of-the-righteous)
 # Available Gear
 
 ## Allies
@@ -19,3 +20,5 @@
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Sling.png" alt="Sling" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Bolas.png" alt="Bolas" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Quarterstaff.png" alt="Quarterstaff" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Mace.png" alt="Mace" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Javelin.png" alt="Javelin" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/HandCrossbow.png" alt="HandCrossbow" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Shortbow.png" alt="Shortbow" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Aklys.png" alt="Aklys" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Sickle.png" alt="Sickle" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Longspear.png" alt="Longspear" width="200"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/HeavyPick.png" alt="HeavyPick" width="200"/>
 
 [characters](../p1/characters.md#characters)
+
+[Main Page](../p1/main.md#wrath-of-the-righteous)

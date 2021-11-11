@@ -27,6 +27,9 @@ While common wisdom is to avoid the Estrovian Forest, the adventurers believe th
 
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/DarkForest.png" alt="DarkForest" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Watchtower.png" alt="Watchtower" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/WoundedLands.png" alt="WoundedLands" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cemetery.png" alt="Cemetery" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRiver.png" alt="AbyssalRiver" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Guardpost.png" alt="Guardpost" width="100"/>
 
+## Notes
+
+##
 ### Links
 - [Darago's Gear](../c1/darago_equipment.md)
 - [Ezrens's Gear](../c1/ezren_equipment.md)

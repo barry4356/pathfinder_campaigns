@@ -38,7 +38,10 @@ to their hand on their first turn.
 on their turn and to fight the fiendish tree instead.
 If they succeed they can draw the cohort Vinst from the box.
 - Any cards encountered that have an animal trait 
-are instead replaced with a carnivorous stump
+are instead replaced with a carnivorous stump.
+- There are multiple Tangle Trap henchmen in the scenario.
+The check to defeat these traps is not a combat check,
+so the only weapons that help are ones with a "slashing" trait.
 
 ##
 ### Links

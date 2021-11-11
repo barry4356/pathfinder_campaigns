@@ -29,8 +29,15 @@ While common wisdom is to avoid the Estrovian Forest, the adventurers believe th
 
 ## Rewards
 
-## Notes
+Each character draws a random weapon or spell from the box.
 
+## Notes
+- One player can add the cohort Cecilla the Uprooter
+to their hand on their first turn.
+- Players have the option to skip their free exploration
+on their turn and to fight the fiendish tree instead.
+If they succeed they can draw the cohort Vinst from the box.
+- 
 ##
 ### Links
 - [Main Page](main.md#wrath-of-the-righteous)

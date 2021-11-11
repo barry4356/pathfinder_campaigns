@@ -44,47 +44,21 @@
 
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Guardpost.png" alt="Guardpost" width="100"/>
 
-## Darago's Cards: Sarah (number left in deck)
+## Darago's Cards: Sarah (15)
 
-### Hand
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
-### Discard
+## Ezren's Cards: Barry (15)
 
-### Buried
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
-*Cards* 
+## Harsk's Cards: Lindsey (15)
 
-## Ezren's Cards: Barry (number left in deck)
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
-### Hand
+## Imrijka's Cards: Caleb (15)
 
-### Discard
-
-### Buried
-
-*Cards* 
-
-## Harsk's Cards: Lindsey (number left in deck)
-
-### Hand
-
-### Discard
-
-### Buried
-
-*Cards* 
-
-## Imrijka's Cards: Caleb (number left in deck)
-
-### Hand
-
-### Discard
-
-### Buried
-
-*Cards* 
-
-#
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/CardBack.png" alt="CardBack" width="100"/>
 
 ### Links
 

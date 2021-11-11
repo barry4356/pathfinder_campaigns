@@ -37,7 +37,9 @@ to their hand on their first turn.
 - Players have the option to skip their free exploration
 on their turn and to fight the fiendish tree instead.
 If they succeed they can draw the cohort Vinst from the box.
-- 
+- Any cards encountered that have an animal trait 
+are instead replaced with a carnivorous stump
+
 ##
 ### Links
 - [Main Page](main.md#wrath-of-the-righteous)

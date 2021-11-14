@@ -5,7 +5,7 @@
 * [ ] Into the Worldwound (+1 card feat)
   * [x] ~~The Godless Ones~~
   * [x] ~~The Elven Entanglement~~
-  * [ ] The Wardstone Patrol
+  * [x] ~~The Wardstone Patrol~~
   * [ ] The Traitor's Lodge
   * [ ] Vengeance at Sundered Crag
 * [ ] The Worldwound Incursion (+1 mythic path card, +1 card feat)

@@ -1,4 +1,3 @@
-[Main Page](main.md#wrath-of-the-righteous)
 
 # Characters
 
@@ -34,4 +33,4 @@ and its vast array of people and places worth protecting.
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1EjdbCkJISLBc5EwvzBOKq44pn0hV09UR/view?usp=sharing)
 
-[Main Page](main.md#wrath-of-the-righteous)
+[Progress](progress.md)

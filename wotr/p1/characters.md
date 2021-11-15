@@ -31,7 +31,7 @@ misunderstanding that resulted in the slaughter of a village... full of peasants
 responsibility for the incident, or the humanity of said peasants; Felix now travels across the land upon his noble steed "Donahan", seeking
 to restore the glory he once knew.
 
-[Equipment](../c1/felix.md#felixs-equipment)
+[Equipment](../c1/felix_equipment.md#felixs-equipment)
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1C_3AA4_zbUYh74QvuuTEy0TZX9otZpS1/view?usp=sharing)
 

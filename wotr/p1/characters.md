@@ -26,7 +26,7 @@ while she lives… and perhaps for a short time thereafter.
 
 ![F3](F3.PNG)
 
-Formerly known as the Lord d'Esparnon, Felix was stripped of land and title after an unfortunate 
+Formerly known as Sir d'Esparnon, Felix was stripped of land and title after an unfortunate 
 misunderstanding that resulted in the slaughter of a village (full of peasants). Refusing to accept
 responsibility for the incident, or the humanity of said peasants, Felix now travels the land, seeking
 to restore the glory he once knew.

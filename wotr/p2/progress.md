@@ -1,4 +1,4 @@
-[Main Page](main.md#wrath-of-the-righteous)
+[Characters](characters.md#characters)
 
 # Progress
 
@@ -46,4 +46,4 @@
 >   * [ ] Closing the Worldwound (+1 card feat)
 >   * [ ] Justifiable Deicide
 
-[Main Page](main.md#wrath-of-the-righteous)
+[Characters](characters.md#characters)

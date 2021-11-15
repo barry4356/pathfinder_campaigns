@@ -1,3 +1,4 @@
+[Progress](progress.md#progress)
 
 # Characters
 
@@ -33,4 +34,4 @@ and its vast array of people and places worth protecting.
 
 [Printable Sheet (External)](https://drive.google.com/file/d/1EjdbCkJISLBc5EwvzBOKq44pn0hV09UR/view?usp=sharing)
 
-[Progress](progress.md)
+[Progress](progress.md#progress)

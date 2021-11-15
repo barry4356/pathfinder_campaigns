@@ -12,6 +12,9 @@
 ## Blessings
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/>
 
+## Cohorts
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Longsword.png" alt="Longsword" width="100"/>
+
 ## Items
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Items/EyePatch.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Items/Codex.png" alt="Longsword" width="100"/>
 

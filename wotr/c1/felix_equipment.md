@@ -1,5 +1,5 @@
-# Ezren's Equipment
-![a](../p1/E3.PNG)
+# Felix's Equipment
+![a](../p1/F3.PNG)
 
 ## Allies
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Apprentice.png" alt="Apprentice" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Interrogator.png" alt="Interrogator" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Fox.png" alt="Fox" width="100"/>

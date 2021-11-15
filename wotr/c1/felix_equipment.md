@@ -10,7 +10,8 @@
 ## Items
 
 ## Weapons
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Longsword.png" alt="Longsword" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Longsword.png" alt="Longsword" width="100"/><img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/Longspear.png" alt="Longspear" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Weapons/HeavyPick.png" alt="HeavyPick" width="100"/>
+ 
 
 [characters](../p1/characters.md#characters)
 

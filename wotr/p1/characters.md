@@ -20,17 +20,16 @@ while she lives… and perhaps for a short time thereafter.
 
 ## 
 
-![E1](E1.PNG)
+![F1](F1.png)
 
-![E2](E2.PNG)
+![F2](F2.PNG)
 
-![E3](E3.PNG)
+![F3](F3.PNG)
 
-After learning that the father whose name he’d spent most of his adult life trying to clear
-was indeed guilty, Ezren abandoned his former life and became a wizard. Finding no masters
-willing to take on an apprentice of his age, he devoted himself to unlocking the mysteries of
-magic alone. His studies soon revealed a true aptitude for the arcane arts, and he now seeks to
-explore the world he neglected for so long.
+Formerly known as the Lord d'Esparnon, Felix was stripped of land and title after an unfortunate 
+misunderstanding that resulted in the slaughter of a village (full of peasants). Refusing to accept
+responsibility for the incident, or the humanity of said peasants, Felix now travels the land, seeking
+to restore the glory he once knew.
 
 [Equipment](../c1/ezren_equipment.md#ezrens-equipment)
 

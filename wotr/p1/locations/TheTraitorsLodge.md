@@ -1,6 +1,6 @@
-# Scenario Name
+# The Traitor's Lodge
 
-![BigMap](scenariomap.png)
+![BigMap](../maps/IntoTheWorldwound3.png)
 
 Story
 

@@ -1,6 +1,6 @@
-# Scenario Name
+# Vengeance at Sundered Crag
 
-![BigMap](scenariomap.png)
+![BigMap](../maps/IntoTheWorldwound4.png)
 
 Story
 

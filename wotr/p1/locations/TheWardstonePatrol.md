@@ -1,6 +1,6 @@
-# Scenario Name
+# The Wardstone Patrol
 
-![BigMap](scenariomap.png)
+![BigMap](../maps/IntoTheWorldwound2.png)
 
 Story
 

@@ -19,7 +19,7 @@ Story
  
 ## Locations
 
-![scenarioMap](scenarioMap.jpg)
+![scenarioMap](../maps/WardstonePatrol.jpg)
 
 ##
 

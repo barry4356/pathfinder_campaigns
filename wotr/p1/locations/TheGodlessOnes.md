@@ -13,3 +13,6 @@ Working together, our four heroes manage to hunt down Sophini's alcolytes one by
 ## Locations
 
 ![scenarioMap](scenarioMap.jpg)
+
+## Links
+- [Main Page](main.md#wrath-of-the-righteous)

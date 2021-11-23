@@ -2,7 +2,7 @@
 
 ![map](IntoTheWorldwound.png)
 
-After defeating Sophini and her demon cult, our Fellowship of adventurers gather their new allies and loot, deciding to answer the call of Queen Galfrey and travel to the city of Kenabres (where there will surely be even more loot).
+After defeating Sophini and her demon cult, our Fellowship of adventurers gather their new allies and loot, deciding to answer the call of Queen Galfrey and travel to the city of [Kenabres](locations.md#kenabres) (where there will surely be even more loot).
 
 While common wisdom is to avoid the Estrovian Forest, the adventurers believe their dwarven ranger more than capable of navigating the twisted woods. Upon entering the woods, the adventurers meet an uprooter elf who asks for their help; The toad demon Fihralaz has captured the Satyr Vinst, and has begun spreading havoc accross the wilderness. Can our adventurers remove this taint from the forest?
 

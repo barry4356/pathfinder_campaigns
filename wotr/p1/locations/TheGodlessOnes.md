@@ -6,6 +6,11 @@ Story
 
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
 
+The people of Egede have a problem... A cult of Demon worshipers, under the leadership of the demonologist [Sophini](../sophini.md), have taken up residence in the outskirts of town. After dark, demons have been raiding the farms and settlements of the villagers outside the town walls, and they grow bolder by the day.
+The townsfolk have started a fund, payable to any noble heroes who answer their call and vanquish the monsters (and their human allies).
+Four noble heros, Ezren the blue wizard, Harsk the dwarf ranger, Imrijka the half-orc Inquisitor, and Darago the death wizard, hear the plight of the villagers and decide to work together to rid the land of this blight...
+
+Working together, our four heroes manage to hunt down Sophini's alcolytes one by one. The villain Sophini nearly escaped, but she was pinned by a cordinated attack by all four heroes. After destroying the cult leader and her minions, the heroes meet in a local tavern to divide up the loot and discuss potentially working together in the future. Ezren, refusing to give up his personal freedom, declines the group and travels North alone. Over hearing our heroes, the human ex-knight Felix approaches and offers to join. He mentions the call of queen Galfrey, requesting any heroes in search of glory travel to Kenabres to assist with the defense of the city against the demon hordes. After a brief discussion, Felix is accepted into the Fellowship...
 
 
 ## Villain

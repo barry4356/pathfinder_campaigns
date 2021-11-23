@@ -14,7 +14,7 @@ For more than a hundred years, the demon-infested [Worldwound](locations.md#the-
 ## Into the World Wound
 On the fringes of the wastelands, life goes on. People live in fear of the horrors of the night, but they still proceed with their daily routines, hoping to see the next day. The hopeful place their faith in the crusaders of Iomedae, heroes who patrol the Worldwound in search of any horrific thing that might prey upon the innocent. But on the road to the Worldwound, you won't find a lot of people who trust that things will go well. Maybe you can change that.
 
-### The Godless Ones :heavy_check_mark:
+### [The Godless Ones](locations/TheGodlessOnes.md#the-godless-ones) :heavy_check_mark:
 The Worldwound's demons would not be so confident about their chances of success without allies hidden among the people they prey upon. The demonologist [Sophini](sophini.md#sophini) and several of her Blackfire Adept minions want to bend demons to their will. Show them whose will is strongest.
 
 ### [*The Elven Entanglement*](TheElvenEntanglement.md#the-elven-entanglement)

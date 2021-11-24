@@ -4,18 +4,18 @@
 
 Story
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheWardstonePatrol.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
 
 
 
 ## Villain
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/villain.png" alt="villain" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/Savash.png" alt="villain" width="100"/>
 
 ## Henchmen
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Brimorak.png" alt="Henchmen" width="100"/>
 
 ## Cohorts
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/SirIlivan.png" alt="Cohort" width="100"/>
  
 ## Locations
 
@@ -23,7 +23,7 @@ Story
 
 ##
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/BefouledAltar.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cavern.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Armory.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/GuardPost.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/FamilyTomb.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/WoundedLands.png" alt="Location" width="100"/>
 
 ## Rewards
 

@@ -4,7 +4,7 @@
 
 * [ ] Into the Worldwound (+1 card feat)
   * [x] ~~The Godless Ones~~
-  * [x] --The Elven Entanglement--
+  * [x] ~~The Elven Entanglement~~
   * [ ] The Wardstone Patrol
   * [ ] The Traitor's Lodge
   * [ ] Vengeance at Sundered Crag

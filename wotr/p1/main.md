@@ -20,4 +20,4 @@ The Worldwound's demons would not be so confident about their chances of success
 ### [*The Elven Entanglement*](TheElvenEntanglement.md#the-elven-entanglement) :heavy_check_mark:
 The road to the Worldwound has pockets of deep forest laden with entanglements. "Uprooter" elves use the twisted forest to their advantage. An eager toad demon has greater ambitions, so the elves and satyrs must seek aid from outsiders.
 
-### 
+### *The Wardstone Patrol*

@@ -20,7 +20,7 @@ The Worldwound's demons would not be so confident about their chances of success
 ### [*The Elven Entanglement*](TheElvenEntanglement.md#the-elven-entanglement) :heavy_check_mark:
 The road to the Worldwound has pockets of deep forest laden with entanglements. "Uprooter" elves use the twisted forest to their advantage. An eager toad demon has greater ambitions, so the elves and satyrs must seek aid from outsiders.
 
-### *The Wardstone Patrol* :heavy_check_mark:
+### [*The Wardstone Patrol*](locations/TheWardstonePatrol.md#the-wardstone-patrol) :heavy_check_mark:
 Crusaders of Iomedae patrol the Worldwound, guarding the magic wardstones that hold Abyssal hordes at bay. As the wardstones begin to crumble, valiant defenders such as the brave Sir Ilivan are the last line of defense. Will they be enough to turn back the demonic hordes?
 
 ### *The Traitor's Lodge*

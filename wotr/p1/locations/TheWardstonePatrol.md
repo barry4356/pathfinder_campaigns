@@ -2,10 +2,9 @@
 
 ![BigMap](../maps/IntoTheWorldwound2.png)
 
-Story
+## Story
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheWardstonePatrol.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
-
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheWardstonePatrol.png" alt="ScenarioFront" width="100"/>
 
 
 ## Villain
@@ -21,17 +20,9 @@ Story
 
 ![scenarioMap](../maps/WardstonePatrol.jpg)
 
-##
-
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/BefouledAltar.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cavern.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Armory.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/GuardPost.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/FamilyTomb.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/WoundedLands.png" alt="Location" width="100"/>
-
 ## Rewards
 
-rewards
-
-## Notes
-- Notes
-- Notes
+Each character draws a random soldier or hireling ally
 
 ##
 ### Links

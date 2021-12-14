@@ -6,6 +6,8 @@ After defeating Sophini and her demon cult, our Fellowship of adventurers gather
 
 While common wisdom is to avoid the Estrovian Forest, the adventurers believe their dwarven ranger more than capable of navigating the twisted woods. Upon entering the woods, the adventurers meet an uprooter elf who asks for their help; The toad demon Fihralaz has captured the Satyr Vinst, and has begun spreading havoc accross the wilderness. Can our adventurers remove this taint from the forest?
 
+While searching for the demon Fihralaz, our heroes decide once again to split up and search the area. The Uprooter Elf Cecilla joined the necromancer in searching the dark forest. The fearless inquisitor rescued Vinst, and assaulted the corrupted guardpost. Dozens of undead corrupted soldiers were mutilated in the assault. Harsk decided to scout through the wounded lands, while Felix scouted through the cemetery. It was Felix who initially flushed the toad demon out of hiding. Despite the terror his presence caused in the forrest, Fihralaz proved to be a less-than-worthy adversary. The demon barely managed to escape into the forrest. The other adventurers quickly rushed to Felix's aid, and were able to corner the toad demon and destroy him. Cecilla promised her aid if ever the adventurers needed it, and the fellowship continued their journey through the forrest, towards Kenabres...
+
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglement.png" alt="TheElvenEntanglement" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheElvenEntanglementB.png" alt="TheElvenEntanglementB" width="100"/>
 
 

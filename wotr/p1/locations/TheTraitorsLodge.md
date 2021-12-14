@@ -2,7 +2,9 @@
 
 ![BigMap](../maps/IntoTheWorldwound3.png)
 
-Story
+As our heroes approach Thurl's mansion, it becomes clear that the powerful summoner has been absent for some time.
+The grounds are overgrown, and overrun by all manner of monsters. Our heroes consider avoiding the area and continuing the hunt for Thurl himself...
+But the prospect of all the potential loot proves enough to entice our adventurers into the frey. Surely the monsters left behind can't be a match for our heroes...
 
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
 

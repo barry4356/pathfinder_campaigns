@@ -35,6 +35,7 @@ Gain all the cards under this card (the "loot-stack"), or gain no reward and you
   - If we win the scenario, we get to divy up the "loot-stack"
 - Karsos (vilain) can only be defeated with magic...
   - If Karsos survives the fight, a new location "maze" is created, and the character is trapped there
+- The loot "sacred prism" is rewarded to whoever closes the first location. There's only one copy of this card in the box
 
 ##
 ### Links

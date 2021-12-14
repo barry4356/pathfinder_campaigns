@@ -4,7 +4,7 @@
 
 Our heroes emerge from the forest.... And realize they are far North of their original route. Harsk blames elven witchcraft for the error, but what's done is done, and our heroes set out for Kenabres.
 
-Shortly after beginning their trek, they encounter a wounded man on horseback. The demon Savash has assaulted the Crusader outpost nearby with an army of lesser demons. Sir Ilivan is leading a desperate last stand and is in need of aid. The inquisitor decides that they cannot leave the Iomedae Crusaders to their fate. The fellowship rushes toward the outpost ready to do battle...
+Shortly after beginning their trek, they encounter a wounded man on horseback. The demon Savash has assaulted the Crusader outpost nearby with a force of Brimorak demons. Sir Ilivan is leading a desperate last stand and is in need of aid. The inquisitor decides that they cannot leave the Iomedae Crusaders to their fate. The fellowship rushes toward the outpost ready to do battle...
 
 When the fellowship arrives, Sir Ilivan joins the necromancer in clearing the nearby tomb of Brimorak demons... And he is never seen again. The necromancer returns alone, and is strangely energized. Felix and Harsk fight their way through the guard post. When it becomes obvious that Harsk can handle it himself, Felix instead travels to the nearby cavern to hunt down the Brimorak demon within. Harsk manages to fight his way to Savash, and quickly dispatches the demon general. As the demon lies dead, an arrow flits from the distant armory, skewereing the demon's corpse (as is the inquisitor's way).
 

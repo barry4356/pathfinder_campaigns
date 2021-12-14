@@ -32,8 +32,12 @@ But the prospect of all the potential loot proves enough to entice our adventure
 rewards
 
 ## Notes
-- Notes
-- Notes
+- Very loot-heavy round
+- Any time an undead monster is defeated, a random boon is drawn from the box
+  - The player then decides if it's worth re-shuffling the monster into a location to add the boon to a "loot-stack"
+  - If we win the scenario, we get to divy up the "loot-stack"
+- Karsos (vilain) can only be defeated with magic...
+  - If Karsos survives the fight, a new location "maze" is created, and the character is trapped there
 
 ##
 ### Links

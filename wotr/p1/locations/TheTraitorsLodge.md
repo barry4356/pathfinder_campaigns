@@ -6,30 +6,27 @@ As our heroes approach Thurl's mansion, it becomes clear that the powerful summo
 The grounds are overgrown, and overrun by all manner of monsters. Our heroes consider avoiding the area and continuing the hunt for Thurl himself...
 But the prospect of all the potential loot proves enough to entice our adventurers into the frey. Surely the monsters left behind can't be a match for our heroes...
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/TheTraitorsLodge.png" alt="ScenarioFront" width="100"/>
 
 
 
 ## Villain
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/villain.png" alt="villain" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/Karsos.png" alt="Karsos" width="100"/>
 
 ## Henchmen
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/>
-
-## Cohorts
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetterdEidolon.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Ghalcor.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Wight.png" alt="Henchmen" width="100"/>
  
 ## Locations
 
-![scenarioMap](scenarioMap.jpg)
+![scenarioMap](maps/TheTraitorsLodge.jpg)
 
 ##
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cemetery.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Laboratory.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/ManorHouse.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/TortureChamber.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cell.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/GreatHall.png" alt="Location" width="100"/>
 
 ## Rewards
 
-rewards
+Gain all the cards under this card (the "loot-stack"), or gain no reward and you may immediately attempt this scenario again.
 
 ## Notes
 - Very loot-heavy round

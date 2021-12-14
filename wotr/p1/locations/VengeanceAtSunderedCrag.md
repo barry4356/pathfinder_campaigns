@@ -4,18 +4,18 @@
 
 Story
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioBack" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/>
 
 
 
 ## Villain
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/villain.png" alt="villain" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/ThurlAndInhaz.png" alt="villain" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/TancredDesimere.png" alt="villain" width="100"/>
 
 ## Henchmen
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Henchmen.png" alt="Henchmen" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetteredEidolons.png" alt="Henchmen" width="100"/>
 
 ## Cohorts
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Cohort.png" alt="Cohort" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/CecillaTheUprooter.png" alt="Cohort" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Vinst.png" alt="Cohort" width="100"/>
  
 ## Locations
 
@@ -23,15 +23,16 @@ Story
 
 ##
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Location.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Abattoir.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Sanctum.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRift.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/TortureChamber.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRiver.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Watchtower.png" alt="Location" width="100"/>
 
 ## Rewards
 
-rewards
+Each character chooses a type of boon other than loot and draws a random non-Basic card of that type from the box
 
 ## Notes
-- Notes
-- Notes
+- The watchtower location isn't created until after the first villain is defeated, and the second villain starts in the watchtower
+- This is the last scenario of the adventure, so we also get the Bonus from that adventure (finally get to check a box on our characters)
 
 ##
 ### Links

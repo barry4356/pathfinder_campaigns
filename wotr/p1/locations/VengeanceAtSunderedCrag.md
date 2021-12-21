@@ -9,7 +9,7 @@ Story
 
 
 ## Villain
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/ThurlAndInhaz.png" alt="villain" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/TancredDesimere.png" alt="villain" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/ThurlAndInhas.png" alt="villain" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/TancredDesimere.png" alt="villain" width="100"/>
 
 ## Henchmen
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetteredEidolons.png" alt="Henchmen" width="100"/>

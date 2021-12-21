@@ -23,5 +23,5 @@ The road to the Worldwound has pockets of deep forest laden with entanglements. 
 ### [The Wardstone Patrol](locations/TheWardstonePatrol.md#the-wardstone-patrol) :heavy_check_mark:
 Crusaders of Iomedae patrol the Worldwound, guarding the magic wardstones that hold Abyssal hordes at bay. As the wardstones begin to crumble, valiant defenders such as the brave Sir Ilivan are the last line of defense. Will they be enough to turn back the demonic hordes?
 
-### *The Traitor's Lodge*
+### [*The Traitor's Lodge*](locations/TheTraitorsLodge.md#the-traitors-lodge)
 The dark summoner Thurl abandoned his macabre laboratories to ghosts and spectral guardians. Among these warders was the ghostly minotaur Karsos, a onetime servitor of Baphomet. Now Karsos haunts the grisly halls, awaiting foolhardy adventurers with the patience of the dead.

@@ -14,7 +14,7 @@ But the prospect of all the potential loot proves enough to entice our adventure
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/Karsos.png" alt="Karsos" width="100"/>
 
 ## Henchmen
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetterdEidolon.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Ghalcor.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Wight.png" alt="Henchmen" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetteredEidolon.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Ghalcor.png" alt="Henchmen" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/Wight.png" alt="Henchmen" width="100"/>
  
 ## Locations
 

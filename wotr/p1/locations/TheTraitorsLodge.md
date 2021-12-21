@@ -18,7 +18,7 @@ But the prospect of all the potential loot proves enough to entice our adventure
  
 ## Locations
 
-![scenarioMap](maps/TheTraitorsLodge.jpg)
+![scenarioMap](../maps/TheTraitorsLodge.png)
 
 ##
 

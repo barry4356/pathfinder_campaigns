@@ -2,16 +2,16 @@
 ![a](../p1/F3.PNG)
 
 ## Allies
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Recruit.png" alt="Recruit" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/JinxEater.png" alt="JinxEater" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Athlete.png" alt="Athlete" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/BattlePilgrim.png" alt="Recruit" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/JinxEater.png" alt="JinxEater" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Allies/Athlete.png" alt="Athlete" width="100"/>
 
 ## Armor
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Armor/WoodenShield.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Armor/StalkingArmor.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Armor/Helm.png" alt="Longsword" width="100"/>
 
 ## Blessings
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfTheLady.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Blessings/BlessingOfAscension.png" alt="Longsword" width="100"/>
 
 ## Cohorts
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Donahan.png" alt="Longsword" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Bloodwind.png" alt="Longsword" width="100"/>
 
 ## Items
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Items/EyePatch.png" alt="Longsword" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Items/Codex.png" alt="Longsword" width="100"/>

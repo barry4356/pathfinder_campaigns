@@ -4,15 +4,15 @@
 
 Story
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/scenario.png" alt="ScenarioFront" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Scenarios/VengeanceAtSunderedCrag.png" alt="ScenarioFront" width="100"/>
 
 
 
 ## Villain
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/ThurlAndInhas.png" alt="villain" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/TancredDesimere.png" alt="villain" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/ThurlAndInhas.png" alt="villain" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Villains/TancredDesimire.png" alt="villain" width="100"/>
 
 ## Henchmen
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetteredEidolons.png" alt="Henchmen" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Henchmen/UnfetteredEidolon.png" alt="Henchmen" width="100"/>
 
 ## Cohorts
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/CecillaTheUprooter.png" alt="Cohort" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Cohorts/Vinst.png" alt="Cohort" width="100"/>
@@ -24,7 +24,7 @@ Story
 ##
 
 <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Abattoir.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Sanctum.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRift.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/TortureChamber.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/AbyssalRiver.png" alt="Location" width="100"/>
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Watchtower.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Watchtower.png" alt="Location" width="100"/> 
 
 ## Rewards
 

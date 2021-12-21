@@ -22,7 +22,7 @@ But the prospect of all the potential loot proves enough to entice our adventure
 
 ##
 
-<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cemetery.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Laboratory.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/ManorHouse.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/TortureChamber.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cell.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/GreatHall.png" alt="Location" width="100"/>
+<img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cemetery.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Laboratory.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/ManorHouse.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/TortureChamber.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Cell.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/GreatHall.png" alt="Location" width="100"/> <img src="https://github.com/barry4356/PACG_Cards/blob/main/WoTR/Locations/Maze.png" alt="Location" width="100"/>
 
 ## Rewards
 

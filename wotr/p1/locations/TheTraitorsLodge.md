@@ -33,8 +33,8 @@ Gain all the cards under this card (the "loot-stack"), or gain no reward and you
 - Any time an undead monster is defeated, a random boon is drawn from the box
   - The player then decides if it's worth re-shuffling the monster into a location to add the boon to a "loot-stack"
   - If we win the scenario, we get to divy up the "loot-stack"
-- Karsos (vilain) can only be defeated with magic...
-  - The "Maze" location doesn't exist when the scenario starts, and has no henchmen/villain in it
+- Karsos (villain) and Ghalcor (henchman) can only be defeated with magic...
+- The "Maze" location doesn't exist when the scenario starts, and has no henchmen/villain in it
   - If Karsos survives a fight, the location "maze" is created, and the character is trapped there
 - The loot "sacred prism" is rewarded to whoever closes the first location. There's only one copy of this card in the box
 

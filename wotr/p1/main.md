@@ -25,3 +25,5 @@ Crusaders of Iomedae patrol the Worldwound, guarding the magic wardstones that h
 
 ### [*The Traitor's Lodge*](locations/TheTraitorsLodge.md#the-traitors-lodge)
 The dark summoner Thurl abandoned his macabre laboratories to ghosts and spectral guardians. Among these warders was the ghostly minotaur Karsos, a onetime servitor of Baphomet. Now Karsos haunts the grisly halls, awaiting foolhardy adventurers with the patience of the dead.
+
+[top of page](#wrath-of-the-righteous)

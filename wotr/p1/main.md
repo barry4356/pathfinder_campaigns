@@ -4,6 +4,7 @@
 - [Progress](progress.md#progress)
 - [Locations](locations.md#locations)
 - [Story](#storyline)
+  * [Into the World Wound](#into-the-world-wound)
 - [External: Rule Book](https://tesera.ru/images/items/559855/PZO6020-Rulebook.pdf)
 - [External: Dice Roller](https://g.co/kgs/ooVcz5)
 - [External: Dice Odds](https://barry4356.pythonanywhere.com/dice_guesser)
